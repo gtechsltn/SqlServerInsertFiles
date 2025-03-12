@@ -1,5 +1,7 @@
 ﻿# C# Insert binary files into SQL-Server table
 
+https://dev.to/karenpayneoregon/c-insert-binary-files-into-sql-server-table-4laa
+
 https://github.com/gtechsltn/SqlServerInsertFiles
 
 D:\gtechsltn\SqlServerInsertFiles
