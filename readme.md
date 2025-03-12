@@ -1,5 +1,9 @@
 ﻿# C# Insert binary files into SQL-Server table
 
+https://github.com/gtechsltn/SqlServerInsertFiles
+
+D:\gtechsltn\SqlServerInsertFiles
+
 ## Introduction
 Learn how to store any binary or non-binary file into a SQL-Server database table using C# and SqlClient  classes which is one option while the other option is using FILESTREAM. Which one to use can be a team decision, a DBA decision or dependent on amount and sizes of files. Here the focus will be on storing files in a column within a table.
 
