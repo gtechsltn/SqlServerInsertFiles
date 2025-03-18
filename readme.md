@@ -436,3 +436,11 @@ While running these examples have SSMS open to view the results.
 ## Summary
 
 Solid code has been presented to perform file insert to tables in SQL-Server database tables.
+
+# References
+* https://github.com/gtechsltn/NET9_SecureWebApp
+* https://github.com/gtechsltn/NET48_WinSvc_DataExport
+* https://github.com/gtechsltn/SqlCommandTimeout
+* https://github.com/gtechsltn/ConsoleApp_Log4Net
+* https://github.com/gtechsltn/SqlServerInsertFiles
+* https://github.com/gtechsltn/ConsoleApp_SharpZipLib
